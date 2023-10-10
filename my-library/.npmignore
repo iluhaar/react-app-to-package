@@ -1,0 +1,6 @@
+# .npmignore
+
+src/
+tests/
+.babelrc
+!dist/
