@@ -6396,7 +6396,7 @@ levn@~0.3.0:
 "library-ts@file:../library-ts/library-ts-0.0.1.tgz":
   version "0.0.1"
   resolved "file:../library-ts/library-ts-0.0.1.tgz"
-  integrity sha512-L51ZcmQIp1o4NqYE7PRRDPIVGDu3/SCEMwCfymtEOwKGr9izGVLVWvtrfY3iXZb/ipI+EEBrP8itQdmUpdmEpw==
+  integrity sha512-vf2BWLXi0kX6tni7QGaMiXw7HKmOWzKVPfCihJE+2m3FbPkbzVKtcEv96rKc66cg2m48k6O3msgV3XXoUUyhvw==
   dependencies:
     "@babel/cli" "^7.23.0"
     "@babel/core" "^7.23.0"
@@ -6406,7 +6406,6 @@ levn@~0.3.0:
     react "^18.2.0"
     react-dom "^18.2.0"
     regenerator-runtime "^0.14.0"
-    typescript "^5.2.2"
 
 "library@file:../library/library-0.0.1.tgz":
   version "0.0.1"

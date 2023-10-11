@@ -10,7 +10,6 @@
   "scripts": {
     "dev": "vite",
     "build-local": "vite build",
-    "build-ts": "tsc src",
     "build": "babel src --out-dir dist --copy-files",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
@@ -23,8 +22,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "regenerator-runtime": "^0.14.0",
-    "typescript": "^5.2.2"
+    "regenerator-runtime": "^0.14.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",

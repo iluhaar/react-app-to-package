@@ -6,6 +6,7 @@ export const Counter = () => {
     <>
       <p>Vite Ts app: {counter}</p>
       <button onClick={() => setCounter((prev) => prev + 1)}>Increase</button>
+      <button onClick={() => setCounter(0)}>Reset</button>
     </>
   );
 };
